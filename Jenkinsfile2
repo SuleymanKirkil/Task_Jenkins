@@ -7,7 +7,7 @@ pipeline {
                 script {
                     // Simulate a build step
                     echo 'Building...'
-                    sh 'echo "Hello, Beautiful World!"'
+                    sh 'echo "Hello, My Beautiful World!"'
                 }
             }
         }
